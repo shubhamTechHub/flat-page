@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.home-page-bg-img {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.home-page-card {
+    background-color: #ffffff;
+    padding: 30px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.home-page-heading {
+    font-family: "bree serif";
+    font-size: 21px;
+    color: #f19116;
+}
+
+.home-page-description {
+    font-family: "bree serif";
+    font-size: 14px;
+    color: #7b8794;
+}
+
+.home-page-button {
+    background-color: #f19116;
+    color: #ffffff;
+    height: 28px;
+    width: 70px;
+    font-size: 12px;
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+.flat-list-pg-bg {
+    background-color: #222222;
+    min-height: 100vh;
+    padding: 12px;
+}
+
+.flat-list-card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.flat-list-img {
+    width: 100px;
+    height: 160px;
+    border-radius: 5px;
+}
+
+.flat-detail-card {
+    padding: 10px;
+}
+
+.flat-size {
+    color: #0f0e46;
+    font-family: "bree serif";
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.flat-description {
+    color: #7b8794;
+    font-family: "bree serif";
+    font-size: 12px;
+}
+
+.description-img {
+    width: 100vw;
+}
+
+.bottom-card {
+    background-color: #222222;
+    height: 100vh;
+    padding: 25px;
+}
+
+.flat-location-card {
+    margin-top: 10px;
+    padding: 10px;
+    border-style: solid;
+    border-bottom-color: #ffffff;
+}
+
+.flat-rent {
+    color: #f19116;
+    font-family: "bree serif";
+    font-size: 20px;
+}
+
+.flat-add {
+    color: #ffffff;
+    font-family: "bree serif";
+    font-size: 11px;
+    padding: 8px;
+}
+
+.location-icon {
+    height: 30px;
+}
+
+.description-heading {
+    color: #f19116;
+    font-family: "bree serif";
+    font-size: 21px;
+    margin-top: 10px;
+}
+
+.description-para {
+    color: #ffffff;
+    font-family: "bree serif";
+    font-size: 12px;
+}
+
+.confirm-button {
+    background-color: #f19116;
+    margin-right: 10px;
+    color: #ffffff;
+    height: 28px;
+    width: 70px;
+    font-size: 12px;
+    border-radius: 5px;
+    border-width: 0px;
+}
